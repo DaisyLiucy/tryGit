@@ -1,1 +1,2 @@
 try checkout and reset.
+add line 1.
